@@ -66,7 +66,7 @@ status (boolean) - The status of the Todo (true for completed, false for incompl
 
 ## Data Structure
 
-The application uses a List data structure to hold Todo objects in memory. The data is persisted to a MySQL database using the Spring Data JPA framework.
+The application uses a List data structure to hold Todo objects in memory. The data is persisted to a H2 database using the Spring Data JPA framework.
 
 ## Project Summary
 
